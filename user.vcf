@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:Peter@ptbaccounting.com
 TEL;type=WORK;type=VOICE:+61466335241
 item1.ADR;type=WORK;type=pref:;;Suite 525/368 Sussex Street\nSydney;NSW;2000
 item1.X-ABADR:sg
-item2.URL;type=pref:www.ptbaccounting.com
+item2.URL;type=pref:https://www.ptbaccounting.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
